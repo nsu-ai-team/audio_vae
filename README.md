@@ -6,7 +6,7 @@ Audio feature generation based on Variational Autoencoders.
 
 ## Installation
 ```
-pip install git+ssh://git@github.com/nsu-ai-team/audio_vae
+pip install git+https://git@github.com/nsu-ai-team/audio_vae
 ```
 
 ## Usage
